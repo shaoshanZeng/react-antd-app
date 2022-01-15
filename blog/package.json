@@ -15,7 +15,7 @@
     "fs": "^0.0.1-security",
     "highlight": "^0.2.4",
     "markdown-navbar": "^1.4.0",
-    "marked": "^0.8.0",
+    "marked": "^4.0.10",
     "next": "9.2.1",
     "react": "16.12.0",
     "react-dom": "16.12.0",
